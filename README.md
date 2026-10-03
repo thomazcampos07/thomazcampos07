@@ -1,40 +1,34 @@
 # Hi, I'm Thomaz 👋
 
-Senior Data Engineer with experience building scalable data platforms, orchestrating pipelines, and enabling analytics and machine learning teams.
+**Senior Data Engineer · Databricks, Apache Spark, Python**
 
-🌎 Based in Brazil | 💻 Open to remote opportunities (US & global)
+🌎 Based in Brazil (UTC-3) · 💻 Open to remote opportunities (US & global) ·
+[LinkedIn](https://www.linkedin.com/in/thomaz-campos) ·
+[Email](mailto:thomazcampos07@gmail.com)
 
-Currently working as a Data Manager / Senior Data Engineer in a fintech,
-focused on data pipelines, analytics, and business impact.
+I build data platforms that analytics and ML teams can trust. I have built one
+from scratch at a fintech, migrated it from BigQuery and Airflow to Databricks,
+and run streaming ingestion and Medallion-architecture lakehouses on AWS. I also
+led a GenAI support-automation project that now resolves 80% of tickets
+automatically.
 
+## 🛠️ Tech stack
 
-## 🛠️ Tech Stack
+- **Lakehouse & processing:** Databricks, Apache Spark (Structured Streaming, Auto Loader), Delta Lake, Unity Catalog
+- **Orchestration & modeling:** Apache Airflow, dbt, dimensional modeling, incremental and backfill-safe loads
+- **Languages:** Python, SQL
+- **Cloud:** AWS (S3, Glue, Athena), Google Cloud (BigQuery, Vertex AI)
+- **ML & ops:** MLflow, Docker, Git, GitHub Actions
 
-**Languages**
-- Python, SQL
+**Certifications:** Astronomer Apache Airflow (Fundamentals, DAG Authoring) · dbt Fundamentals
 
-**Data Engineering**
-- Apache Airflow
-- Apache Spark
-- dbt
-- ETL / ELT pipelines
+## 📌 Featured projects
 
-**Cloud & Data Warehouses**
-- Google BigQuery
-- AWS (S3, Glue, Athena)
+- **[homelab](https://github.com/thomazcampos07/homelab):** infrastructure-as-code for my home server. Pi-hole + Unbound, WireGuard, monitoring with a dead man's switch, and encrypted backups, all in Docker with pinned images and Dependabot.
+- **[ficha-fit](https://github.com/thomazcampos07/ficha-fit):** Streamlit app that turns a form into a personalized workout plan with the OpenAI API.
 
-**Data Modeling & Quality**
-- Dimensional modeling
-- Incremental loads
-- Data quality checks
+## 🧠 What I care about
 
-**Dev & Ops**
-- Docker
-- Git & GitHub Actions
-
-## 🧠 What I Care About
-
-- Building reliable and observable data pipelines
-- Writing clean, maintainable, and testable code
-- Designing backfill-safe and idempotent workflows
-- Turning raw data into business-ready datasets
+- Reliable, observable pipelines that are idempotent and safe to backfill
+- Clean, testable code and data quality checks built into the pipeline
+- Turning raw data into business-ready datasets that people actually use
