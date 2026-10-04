@@ -9,18 +9,20 @@
 I build data platforms that analytics and ML teams can trust. I have built one
 from scratch at a fintech, migrated it from BigQuery and Airflow to Databricks,
 and run streaming ingestion and Medallion-architecture lakehouses on AWS. I also
-led a GenAI support-automation project that now resolves 80% of tickets
-automatically.
+led a GenAI support-automation project that automated 80% of tickets and
+saved about US$100K in six months.
 
 ## 🛠️ Tech stack
 
-- **Lakehouse & processing:** Databricks, Apache Spark (Structured Streaming, Auto Loader), Delta Lake, Unity Catalog
+- **Lakehouse & processing:** Databricks (Auto Loader, Unity Catalog), Apache Spark (Structured Streaming), Delta Lake
 - **Orchestration & modeling:** Apache Airflow, dbt, dimensional modeling, incremental and backfill-safe loads
 - **Languages:** Python, SQL
 - **Cloud:** AWS (S3, Glue, Athena), Google Cloud (BigQuery, Vertex AI)
 - **ML & ops:** MLflow, Docker, Git, GitHub Actions
 
 **Certifications:** Astronomer Apache Airflow (Fundamentals, DAG Authoring) · dbt Fundamentals
+
+**Languages:** English (fluent) · Portuguese (native) · Spanish (intermediate)
 
 ## 📌 Featured projects
 
