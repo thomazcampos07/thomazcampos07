@@ -22,7 +22,7 @@ saved about US$100K in six months.
 
 **Certifications:** Astronomer Apache Airflow (Fundamentals, DAG Authoring) · dbt Fundamentals
 
-**Languages:** English (fluent) · Portuguese (native) · Spanish (intermediate)
+**Spoken languages:** English (fluent) · Portuguese (native) · Spanish (intermediate)
 
 ## 📌 Featured projects
 
